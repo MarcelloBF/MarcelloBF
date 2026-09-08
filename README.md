@@ -1,128 +1,20 @@
-# 👋 Olá, eu sou Marcello Bellotti Fargnolli!
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Marcello+%F0%9F%91%8B;Desenvolvedor+Front-end+%26+Back-end;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" /> <br/> <a href="https://www.linkedin.com/in/marcellobellotti/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/MarcelloBF"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:marcellofargnolli@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
-### 💻 Desenvolvedor Full Stack | Python • Backend • Web
+<br/><br/>
 
-🎓 Formado em **Ciência da Computação** pela **Universidade São Judas Tadeu**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=120&section=header" width="100%"/> </div>
+🚀 Sobre mim
 
-Atualmente estou aprofundando meus conhecimentos em **Python e desenvolvimento Backend**, enquanto continuo evoluindo minhas habilidades em **Frontend** para construir aplicações completas e bem estruturadas.
+Formado em Ciência da Computação pela Universidade São Judas Tadeu, atualmente aprofundando meus estudos em Desenvolvimento Back-end com Python. Tenho conhecimento intermediário em Front-end e Back-end, e gosto de transformar lógica e organização em soluções simples e funcionais.
 
-Tenho interesse em transformar ideias em soluções reais, aprender novas tecnologias e desenvolver projetos que me permitam evoluir constantemente como desenvolvedor.
-
----
-
-## 🚀 Sobre mim
-
-* 🎓 Bacharel em Ciência da Computação
-* 🐍 Atualmente focado em **Python**
-* ⚙️ Estudando **desenvolvimento Backend**
-* 🌐 Conhecimentos em **HTML e CSS**
-* 📜 Conhecimentos básicos em **JavaScript**
-* 💻 Buscando evoluir como **Desenvolvedor Full Stack**
-* 📚 Sempre estudando e desenvolvendo novos projetos
-* 🤝 Gosto de trabalhar em equipe e aprender com outras pessoas
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-### 💻 Linguagens
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,java" />
-</p>
-
-### ⚙️ Desenvolvimento
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,php,vscode" />
-</p>
-
-> Algumas dessas tecnologias representam conhecimentos em desenvolvimento e estudos atuais, enquanto outras fazem parte da minha base acadêmica e prática.
-
----
-
-## 📚 Atualmente estudando
-
-```text
-🐍 Python
-   ├── Lógica de programação
-   ├── Programação orientada a objetos
-   ├── APIs
-   ├── Backend
-   └── Automação
-
-🌐 Desenvolvimento Web
-   ├── HTML
-   ├── CSS
-   ├── JavaScript
-   └── Integração Frontend + Backend
-
-🗄️ Banco de Dados
-   └── SQL / MySQL
-```
-
----
-
-## 🚀 Projetos
-
-Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado e desenvolvimento.
-
-| Projeto             | Tecnologias             | Descrição                                |
-| ------------------- | ----------------------- | ---------------------------------------- |
-| 🐍 Projetos Python  | Python                  | Estudos, automações e aplicações         |
-| 🌐 Projetos Web     | HTML • CSS • JavaScript | Desenvolvimento Frontend                 |
-| ⚙️ Projetos Backend | Python • APIs           | Aplicações e serviços Backend            |
-| 🗄️ Sistemas        | Python • SQL            | Aplicações integradas com banco de dados |
-
-> 🚧 Estou constantemente adicionando novos projetos ao meu GitHub.
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Objetivo
-
-Meu objetivo é me tornar um **Desenvolvedor Full Stack**, construindo uma base sólida em Backend com Python e evoluindo continuamente minhas habilidades em Frontend, bancos de dados, APIs e arquitetura de aplicações.
-
-Estou sempre buscando novos desafios, projetos e oportunidades para colocar meus conhecimentos em prática.
-
----
-
-## 📫 Contato
-
-<p align="left">
-
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!-- Adicione seu LinkedIn aqui -->
-
-<!--
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
--->
-
-</p>
-
----
-
-<p align="center">
-  <i>🚀 Sempre aprendendo. Sempre construindo.</i>
-</p>
+🎓 Ciência da Computação — Universidade São Judas Tadeu
+📚 Cursando Back-end com Python — Alura
+💼 Freelancer em gestão de catálogos de e-commerce
+🌱 Sempre estudando algo novo em tecnologia
+<br/>
+<br/>
+<br/>
+🛠️ Tecnologias
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=light" /> </div> <br/>
+📊 GitHub Stats
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=MarcelloBF&theme=dark&hide_border=true" height="180" /> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" width="100%"/> </div> <p align="center"><i>Obrigado pela visita! Vamos conversar 🚀</i></p>
